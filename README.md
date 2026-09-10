@@ -69,14 +69,6 @@ Library-Management-System/
 ├── view.php
 ├── database.sql
 ├── README.md
-└── screenshots/
-    ├── 01-login.png
-    ├── 02-add-book.png
-    ├── 03-success.png
-    ├── 04-view-books.png
-    ├── 05-search-filter-delete.png
-    ├── 06-security-test.png
-    └── 07-hosted-website.png
 
 ### File Description
 
