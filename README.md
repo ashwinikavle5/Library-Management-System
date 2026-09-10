@@ -192,6 +192,6 @@ The project follows the security requirements specified for the assignment.
 * **Credentials Protection:** Database credentials should not be published in screenshots or public GitHub repositories.
 
 
-## 13. Declaration
+## 11. Declaration
 
 I hereby declare that the **Library Management System** project is my original work developed for the DBMS Unit 4 assignment. The project has been implemented using HTML/CSS, PHP, and MySQL and follows the required database and security practices.
