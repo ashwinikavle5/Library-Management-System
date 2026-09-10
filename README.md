@@ -191,39 +191,6 @@ The project follows the security requirements specified for the assignment.
 * **Error Protection:** Detailed database errors are not exposed to normal users.
 * **Credentials Protection:** Database credentials should not be published in screenshots or public GitHub repositories.
 
----
-
-## 12. Test Cases and Output Screenshots
-### 12.1 Login Page
-The login page allows registered users to securely access the Library Management System.
-![Login Page](screenshots/01-login.png)
-
-### 12.2 Add Book Form
-The Add Book form allows the user to enter book name, author, book code, category, and status.
-![Add Book Form](screenshots/02-add-book.png)
-
-### 12.3 Successful Book Insertion
-After submitting valid book details, the system successfully stores the book record in the MySQL database.
-![Successful Book Insertion](screenshots/03-success.png)
-
-
-### 12.4 View Books
-The View Books page displays the book records stored in the MySQL database.
-![View Books](screenshots/04-view-books.png)
-
-
-### 12.5 Search, Filter and Delete
-The system provides options to search/filter book records and delete selected records.
-![Search Filter Delete](screenshots/05-search-filter-delete.png)
-
-### 12.6 Security Test
-A harmless input containing a special character such as `O'Reilly Python` was tested. The record was successfully processed without an SQL error, demonstrating safe handling of user input.
-![Security Test](screenshots/06-security-test.png)
-
-### 12.7 Hosted Application
-The completed application was deployed and tested on InfinityFree hosting.
-![Hosted Website](screenshots/07-hosted-website.png)
-
 
 ## 13. Declaration
 
